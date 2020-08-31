@@ -8,6 +8,11 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 
+using AspDotNetDoc.Data;
+using Microsoft.EntityFrameworkCore;
+
+
+
 namespace AspDotNetDoc
 {
 	public class Startup
@@ -22,7 +27,10 @@ namespace AspDotNetDoc
 		// This method gets called by the runtime. Use this method to add services to the container.
 		public void ConfigureServices(IServiceCollection services)
 		{
+
 			services.AddControllersWithViews();
+			services.AddDbContext<MvcMovieContext>(option =>
+			option.UseSqlServer(Configuration.GetConnectionString("MvcMovieContext")));
 		}
 
 		// This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

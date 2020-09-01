@@ -13,9 +13,6 @@ namespace FirstCoreWeb.Controllers
             return View();
         }
 
-        //public string Welcome(string name)
-        //{
-        //    return $"Hello {name}";
-        //}
+
     }
 }

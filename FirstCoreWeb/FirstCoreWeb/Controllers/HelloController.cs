@@ -8,14 +8,14 @@ namespace FirstCoreWeb.Controllers
 {
     public class HelloController : Controller
     {
-        public string Index()
+        public IActionResult Index()
         {
-            return "Hello String Index View";
+            return View();
         }
 
-        public string Welcome(string name)
-        {
-            return $"Hello {name}";
-        }
+        //public string Welcome(string name)
+        //{
+        //    return $"Hello {name}";
+        //}
     }
 }

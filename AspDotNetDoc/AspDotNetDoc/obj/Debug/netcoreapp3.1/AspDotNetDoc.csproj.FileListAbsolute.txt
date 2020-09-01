@@ -441,3 +441,10 @@ P:\AspDotNetCoreWebApp\AspDotNetDoc\AspDotNetDoc\bin\Debug\netcoreapp3.1\zh-Hant
 P:\AspDotNetCoreWebApp\AspDotNetDoc\AspDotNetDoc\obj\Debug\netcoreapp3.1\AspDotNetDoc.csproj.CoreCompileInputs.cache
 P:\AspDotNetCoreWebApp\AspDotNetDoc\AspDotNetDoc\obj\Debug\netcoreapp3.1\AspDotNetDoc.MvcApplicationPartsAssemblyInfo.cs
 P:\AspDotNetCoreWebApp\AspDotNetDoc\AspDotNetDoc\obj\Debug\netcoreapp3.1\AspDotNetDoc.MvcApplicationPartsAssemblyInfo.cache
+P:\AspDotNetCoreWebApp\AspDotNetDoc\AspDotNetDoc\bin\Debug\netcoreapp3.1\Properties\serviceDependencies.json
+P:\AspDotNetCoreWebApp\AspDotNetDoc\AspDotNetDoc\bin\Debug\netcoreapp3.1\Properties\serviceDependencies.local.json
+P:\AspDotNetCoreWebApp\AspDotNetDoc\AspDotNetDoc\obj\Debug\netcoreapp3.1\Razor\Views\Movies\Create.cshtml.g.cs
+P:\AspDotNetCoreWebApp\AspDotNetDoc\AspDotNetDoc\obj\Debug\netcoreapp3.1\Razor\Views\Movies\Delete.cshtml.g.cs
+P:\AspDotNetCoreWebApp\AspDotNetDoc\AspDotNetDoc\obj\Debug\netcoreapp3.1\Razor\Views\Movies\Details.cshtml.g.cs
+P:\AspDotNetCoreWebApp\AspDotNetDoc\AspDotNetDoc\obj\Debug\netcoreapp3.1\Razor\Views\Movies\Edit.cshtml.g.cs
+P:\AspDotNetCoreWebApp\AspDotNetDoc\AspDotNetDoc\obj\Debug\netcoreapp3.1\Razor\Views\Movies\Index.cshtml.g.cs

@@ -12,5 +12,10 @@ namespace FirstCoreWeb.Controllers
         {
             return "Hello String Index View";
         }
+
+        public string Welcome(string name)
+        {
+            return $"Hello {name}";
+        }
     }
 }
